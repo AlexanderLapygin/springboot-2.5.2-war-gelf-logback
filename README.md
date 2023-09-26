@@ -6,7 +6,7 @@
 
 UNDER DEVELOPMENT
 
-# Spring Boot with logging by GELF for Graylog on Logback in war
+# Spring Boot(v.2.5.2) with logging by GELF for Graylog on Logback in war
 
 
 ## Feature tags
